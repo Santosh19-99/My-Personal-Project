@@ -3,4 +3,14 @@ h1{
     background-color: brown;
     color: white;
     border-radius: 10px;
+    width: 900px;
+    margin-left: 300px;
+
+}
+article{
+    color: blue;
+    height: 100px;
+    width: 100px;
+    text-align: center;
+    margin
 }
