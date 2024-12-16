@@ -8,9 +8,12 @@ h1{
 
 }
 article{
-    color: blue;
-    height: 100px;
-    width: 100px;
+    color: rgb(255, 255, 255);
+    height: 200px;
+    width: 400px;
     text-align: center;
-    margin
+    margin-left: 100px;
+    background-color: red;
+    border-radius: 5px;
+    font-size: 20px;
 }
